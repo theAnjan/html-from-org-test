@@ -1,0 +1,30 @@
+.large {
+  height: 30px;
+  width: 50px;
+}
+
+.medium {
+  height: 20px;
+  width: 40px;
+}
+
+.small {
+  height: 10px;
+  width: 30px;
+}
+
+.red-text {
+  color: red;
+}
+
+.blue-text {
+  color: blue;
+}
+
+.green-bg {
+  background-color: green;
+}
+
+.red-bg {
+  background-color: red;
+}
